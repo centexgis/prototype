@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Membership"
+    url: /membership/
+  - title: "Photos"
+    url: /photos/
+  - title: "Posts"
+    url: /categories/
+  - title: "Contact"
+    url: /contact/
